@@ -41,10 +41,15 @@ These are **observations, not verified security vulnerabilities**. Results are t
 | DNSRecon | [View Screenshot](./dnsrecon%20-d%20.png) |
 
 
-REPORT/
-│
-├── README.md
-└── Shaik_Mahboob_W2_PM1_Penetration_Testing_Report.pdf
+
+## 📄 Project Report
+
+**Footprinting & Reconnaissance Using Multiple Kali Linux Tools**
+
+The complete project documentation is available below.
+
+📥 [View / Download Project Report](./REPORT%20WK2%20PM1.pdf)
+
 
 ## Ethics and scope
 For educational documentation only. Perform reconnaissance or further testing only within the authorization and scope established by the relevant system owner or training provider. No exploitation is documented here. Review permission to publish target-specific results before making this repository public.
