@@ -41,8 +41,10 @@ These are **observations, not verified security vulnerabilities**. Results are t
 | DNSRecon | [View Screenshot](./dnsrecon%20-d%20.png) |
 
 
-## Full report
-[Read the W2-PM1 penetration testing report (PDF)](reports/W2-PM1-Final-Report.pdf)
+REPORT/
+│
+├── README.md
+└── Shaik_Mahboob_W2_PM1_Penetration_Testing_Report.pdf
 
 ## Ethics and scope
 For educational documentation only. Perform reconnaissance or further testing only within the authorization and scope established by the relevant system owner or training provider. No exploitation is documented here. Review permission to publish target-specific results before making this repository public.
