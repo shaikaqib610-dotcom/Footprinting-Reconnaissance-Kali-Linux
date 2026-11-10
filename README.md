@@ -28,7 +28,9 @@ This project documents six introductory reconnaissance tasks performed for a cyb
 
 These are **observations, not verified security vulnerabilities**. Results are time-dependent.
 
+
 ## Evidence
+
 | Task | Screenshot |
 |---|---|
 | WHOIS | [Screenshot 1](screenshots/01-whois.png), [Screenshot 2](screenshots/02-whois-details.png) |
