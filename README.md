@@ -29,16 +29,39 @@ This project documents six introductory reconnaissance tasks performed for a cyb
 These are **observations, not verified security vulnerabilities**. Results are time-dependent.
 
 
-## Evidence and Screenshots
 
-| Tool | Screenshot |
-|---|---|
-| WHOIS | [Screenshot 1](./who%20am%20i%20(1).png) · [Screenshot 2](./who%20am%20i%20(2).png) |
-| WhatWeb | [View Screenshot](./what%20web%20.png) |
-| Nslookup | [View Screenshot](./nslookup.png) |
-| Curl | [View Screenshot](./curl%20-I.png) |
-| Wafw00f | [View Screenshot](./waf00f.png) |
-| DNSRecon | [View Screenshot](./dnsrecon%20-d%20.png) |
+---
+
+# WEEK 2 – FOOTPRINTING & RECONNAISSANCE
+
+## Practical Screenshots – Kali Linux
+
+### 1. WHOIS – Domain Information
+![WHOIS](./who%20am%20i%20(1).png)
+
+### 2. WHOIS – Additional Registration Details
+![WHOIS Details](./who%20am%20i%20(2).png)
+
+### 3. WhatWeb – Website Technology Detection
+![WhatWeb](./what%20web%20.png)
+
+### 4. Nslookup – DNS Resolution
+![Nslookup](./nslookup.png)
+
+### 5. Curl – HTTP Response Headers
+![Curl](./curl%20-I.png)
+
+### 6. Wafw00f – WAF Detection
+![Wafw00f](./waf00f.png)
+
+### 7. DNSRecon – DNS Enumeration
+![DNSRecon](./dnsrecon%20-d%20.png)
+
+---
+
+## Project Report
+
+[View / Download W2-PM1 Penetration Testing Report](./REPORT%20WK2%20PM1.pdf)
 
 
 
