@@ -29,16 +29,17 @@ This project documents six introductory reconnaissance tasks performed for a cyb
 These are **observations, not verified security vulnerabilities**. Results are time-dependent.
 
 
-## Evidence
+## Evidence and Screenshots
 
-| Task | Screenshot |
+| Tool | Screenshot |
 |---|---|
-| WHOIS | [Screenshot 1](screenshots/01-whois.png), [Screenshot 2](screenshots/02-whois-details.png) |
-| WhatWeb | [Screenshot](screenshots/03-whatweb.png) |
-| Nslookup | [Screenshot](screenshots/04-nslookup.png) |
-| Curl | [Screenshot](screenshots/05-curl-headers.png) |
-| Wafw00f | [Screenshot](screenshots/06-wafw00f.png) |
-| DNSRecon | [Screenshot](screenshots/07-dnsrecon.png) |
+| WHOIS | [Screenshot 1](./who%20am%20i%20(1).png) · [Screenshot 2](./who%20am%20i%20(2).png) |
+| WhatWeb | [View Screenshot](./what%20web%20.png) |
+| Nslookup | [View Screenshot](./nslookup.png) |
+| Curl | [View Screenshot](./curl%20-I.png) |
+| Wafw00f | [View Screenshot](./waf00f.png) |
+| DNSRecon | [View Screenshot](./dnsrecon%20-d%20.png) |
+
 
 ## Full report
 [Read the W2-PM1 penetration testing report (PDF)](reports/W2-PM1-Final-Report.pdf)
